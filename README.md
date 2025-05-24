@@ -59,15 +59,11 @@ npm install
 npm start
 Open client/index.html in your browser or use Live Server in VS Code.
 
+##🌍 Deployment
+Frontend hosted on: console
 
----
+Backend hosted on: console
 
-### ✅ Next Step
 
-1. Save this as `README.md` in your root project folder.
-2. Run the following to push it to GitHub:
 
-```bash
-git add README.md
-git commit -m "Add project README"
-git push
+
